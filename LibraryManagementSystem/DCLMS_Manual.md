@@ -2,14 +2,10 @@
 
 # 一.安装
 使用平板自带的浏览器, 输入 `http://54.149.244.137/apk/DCLMS_<version>_release.apk`
-下载完成以后点击安装. 
-此处应有图  
-安装完成后点击梦想图书室 
-![Alt text](https://github.com/DreamCorpsInternational/IT-TrainingMaterial/raw/master/LibraryManagementSystem/Screenshots-v1.0.0-20160318/1_App_Icon.png)  
-输入被分配的图书室号 
-此处应有图   
+下载完成以后点击安装
+安装完成后点击梦想图书室   
+输入被分配的图书室号  
 点击确认 
-此处应有图
 
 # 二.使用
 ## 读者功能
