@@ -5,7 +5,7 @@
 下载完成以后点击安装. 
 此处应有图  
 安装完成后点击梦想图书室 
-此处应有图  
+![Alt text](https://github.com/DreamCorpsInternational/IT-TrainingMaterial/raw/master/LibraryManagementSystem/Screenshots-v1.0.0-20160318/1_App_Icon.png)  
 输入被分配的图书室号 
 此处应有图   
 点击确认 
